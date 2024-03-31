@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate frontend developer from Pune,India</h3>
+<h3 align="center">Currently learning Data Science ( AI and ML )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developed-by-pratik&label=Profile%20views&color=0e75b6&style=flat" alt="developed-by-pratik" /> </p>
 
