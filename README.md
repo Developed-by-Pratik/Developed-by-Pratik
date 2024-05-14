@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on Development <br>🤝 I’m looking for help with Frameworks<br>🌱 I’m currently learning SpringBoot And Next.Js<br>💬 Ask me about Software Development<br>⚡ Fun fact I'm Coder 
+🔭 I’m currently working on MERN Stack development, delving into the realms of MongoDB, Express.js, React, and Node.js.  
+👯 I’m looking to collaborate on various development projects, where I can contribute my skills and expertise.  
+🤝 I’m looking for help with mastering different frameworks to enhance my development toolkit and broaden my understanding.  
+🌱 I’m currently immersing myself in learning Spring Boot for Java development and Next.js for building powerful React applications.  
+💬 Ask me about anything related to software development, whether it's coding techniques, best practices, or project management.  
+⚡ Fun fact: I breathe in code and exhale solutions. Coding is not just a profession for me; it's a way of life!
 
 
 ## 🌐 Socials:
